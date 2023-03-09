@@ -2,7 +2,7 @@ package org.example;
 
 public class PlanetaSayayin {
     public static void main(String[] args) {
-
+        System.out.println("DragonBall");
 
     //creando un objeto de clase alta
     ClaseAlta guerrero1 = new ClaseAlta("Vegeta",90,30,"negro");
